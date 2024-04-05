@@ -1,4 +1,4 @@
-# TNSDC-Generative-AI
+# TNSDC-Generative-AI-Final-Project
 
 ## TensorFlow CIFAR-10 Classifier
 
